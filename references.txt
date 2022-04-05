@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/22391433/count-the-frequency-that-a-value-occurs-in-a-dataframe-column
+
+https://www.codegrepper.com/code-examples/python/pandas+count+specific+value+in+column
+
+https://stackoverflow.com/questions/25129144/pandas-return-hour-from-datetime-column-directly/30717361
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.weekday.html
+
+https://stackoverflow.com/questions/25146121/extracting-just-month-and-year-separately-from-pandas-datetime-column
+
+https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+
